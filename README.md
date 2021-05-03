@@ -9,3 +9,5 @@
 Lakin benim gibi javaSE-15 ile compile ediyor ise projeniz eklenen servis hata verecektir. Bunun için
 projeye sağ tıklayıp
 properties -> Java Compiler -> Use compliance from.. tikini kaldırıp -> 1.8 'i seçerseniz sorunsuz çalışacaktır.
+
+### Programın çalışması için Main.java içinde kendi bilgilerinizi girmeniz gerekmektedir
