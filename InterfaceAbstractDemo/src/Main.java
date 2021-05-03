@@ -11,7 +11,7 @@ public class Main {
 		System.out.println("Hello");
 		BaseCustomerManager customerManager=new StarbucksCustomerManager(new MernisServiceAdapter());
 		
-		Customer customer=new Customer(1,"Semih","Þahan",1999,"52462447992");
+		Customer customer=new Customer(1,"Semih","Ãžahan",1999,"");
 		
 		
 		customerManager.save(customer);
