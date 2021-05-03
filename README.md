@@ -1,5 +1,5 @@
 # InterfaceAbstractDemo
-<font color="orange">SOLID</font> presnsiplerine uygun şekilde <font color="orange">Mernis Web Service</font> alt yapısı kullanılarak kullanıcı TC,İsim,Soyisim ve Doğum yılı bilgileri teyit edecek back-end tasarlandı.
+<font color="orange">SOLID</font> prensiplerine uygun şekilde <font color="orange">Mernis Web Service</font> alt yapısı kullanılarak kullanıcı TC,İsim,Soyisim ve Doğum yılı bilgileri teyit edecek back-end tasarlandı.
 
 ## Mernis İmplementasyonu
 - Projeye sağ tıkla new -> other -> web service client
